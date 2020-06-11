@@ -1,3 +1,18 @@
+// Version 1 bin-search
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        std::ios::sync_with_stdio(false);
+        for (vector<int>& vec : matrix) {
+            auto it = lower_bound(vec.begin(), vec.end(), target);
+            if (it != vec.end() && *it == target)
+                return true;
+        }
+        return false;
+    }
+};
+
+// Version 2
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {

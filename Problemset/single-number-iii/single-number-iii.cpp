@@ -1,10 +1,24 @@
 
 // @Title: 只出现一次的数字 III (Single Number III)
 // @Author: Singularity0909
-// @Date: 2020-07-05 22:22:36
-// @Runtime: 20 ms
-// @Memory: 10.1 MB
+// @Date: 2020-07-06 01:15:20
+// @Runtime: 16 ms
+// @Memory: 10 MB
 
+// Version 1 bit
+class Solution {
+public:
+    vector<int> singleNumber(vector<int>& nums) {
+        int x = 0;
+        for (int n : nums) x ^= n;
+        x &= -x;
+        vector<int> res(2, 0);
+        for (int n : nums) res[n & x ? 1 : 0] ^= n;
+        return res;
+    }
+};
+
+// Version 2 hash
 // class Solution {
 // public:
 //     vector<int> singleNumber(vector<int>& nums) {
@@ -17,15 +31,3 @@
 //         return res;
 //     }
 // };
-
-class Solution {
-public:
-    vector<int> singleNumber(vector<int>& nums) {
-        int x = 0;
-        for (int n : nums) x ^= n;
-        x &= -x;
-        vector<int> res(2, 0);
-        for (int n : nums) res[n & x ? 1 : 0] ^= n;
-        return res;
-    }
-};

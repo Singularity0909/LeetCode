@@ -1,19 +1,10 @@
 
 // @Title: 重建二叉树 (重建二叉树 LCOF)
 // @Author: Singularity0909
-// @Date: 2020-06-24 05:01:34
-// @Runtime: 20 ms
-// @Memory: 25.8 MB
+// @Date: 2020-07-06 01:21:27
+// @Runtime: 28 ms
+// @Memory: 25.9 MB
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     unordered_map<int, int> pos_in;

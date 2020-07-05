@@ -1,18 +1,10 @@
 
 // @Title: 合并两个排序的链表 (合并两个排序的链表  LCOF)
 // @Author: Singularity0909
-// @Date: 2020-07-05 11:54:41
-// @Runtime: 44 ms
-// @Memory: 19.5 MB
+// @Date: 2020-07-06 01:17:02
+// @Runtime: 48 ms
+// @Memory: 19.4 MB
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {

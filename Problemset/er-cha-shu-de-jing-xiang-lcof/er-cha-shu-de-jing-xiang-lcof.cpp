@@ -1,19 +1,10 @@
 
 // @Title: 二叉树的镜像 (二叉树的镜像  LCOF)
 // @Author: Singularity0909
-// @Date: 2020-07-05 22:32:14
-// @Runtime: 0 ms
+// @Date: 2020-07-06 01:14:23
+// @Runtime: 4 ms
 // @Memory: 9.2 MB
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     TreeNode* mirrorTree(TreeNode* root) {

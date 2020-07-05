@@ -1,18 +1,10 @@
 
 // @Title: 反转链表 (反转链表 LCOF)
 // @Author: Singularity0909
-// @Date: 2020-07-05 14:04:03
+// @Date: 2020-07-06 01:17:15
 // @Runtime: 12 ms
 // @Memory: 8.7 MB
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {

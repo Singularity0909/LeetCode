@@ -1,18 +1,10 @@
 
 // @Title: 合并两个有序链表 (Merge Two Sorted Lists)
 // @Author: Singularity0909
-// @Date: 2020-07-05 11:55:39
-// @Runtime: 8 ms
-// @Memory: 14.5 MB
+// @Date: 2020-07-06 01:16:43
+// @Runtime: 12 ms
+// @Memory: 14.2 MB
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {

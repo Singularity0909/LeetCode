@@ -1,19 +1,10 @@
 
 // @Title: 对称二叉树 (Symmetric Tree)
 // @Author: Singularity0909
-// @Date: 2020-07-05 22:41:51
-// @Runtime: 4 ms
-// @Memory: 12.4 MB
+// @Date: 2020-07-06 01:13:21
+// @Runtime: 12 ms
+// @Memory: 12.3 MB
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     bool equal(TreeNode* a, TreeNode* b) {

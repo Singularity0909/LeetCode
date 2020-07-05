@@ -1,19 +1,10 @@
 
 // @Title: 翻转二叉树 (Invert Binary Tree)
 // @Author: Singularity0909
-// @Date: 2020-07-05 22:33:00
+// @Date: 2020-07-06 01:13:41
 // @Runtime: 0 ms
-// @Memory: 9 MB
+// @Memory: 9.3 MB
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {

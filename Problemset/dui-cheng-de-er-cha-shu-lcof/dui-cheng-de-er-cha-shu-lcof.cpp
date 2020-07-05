@@ -1,19 +1,10 @@
 
 // @Title: 对称的二叉树 (对称的二叉树  LCOF)
 // @Author: Singularity0909
-// @Date: 2020-07-05 22:41:22
-// @Runtime: 4 ms
-// @Memory: 16.5 MB
+// @Date: 2020-07-06 01:14:01
+// @Runtime: 8 ms
+// @Memory: 16.2 MB
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     bool equal(TreeNode* a, TreeNode* b) {

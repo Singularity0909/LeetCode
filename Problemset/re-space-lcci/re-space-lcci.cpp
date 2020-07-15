@@ -1,60 +1,64 @@
 
 // @Title: 恢复空格 (Re-Space LCCI)
 // @Author: Singularity0909
-// @Date: 2020-07-09 23:45:52
-// @Runtime: 116 ms
-// @Memory: 154.4 MB
+// @Date: 2020-07-15 14:35:01
+// @Runtime: 136 ms
+// @Memory: 97.8 MB
 
 class Trie {
 public:
-    Trie* next[26] = {nullptr};
-    bool isEnd;
+    int cnt;
+    int** trie;
+    bool* exist;
     
-    Trie() {
-        isEnd = false;
-    }
-
-    void insert(string s) {
-        Trie* curPos = this;
-
-        for (int i = s.length() - 1; i >= 0; --i) {
-            int t = s[i] - 'a';
-            if (curPos->next[t] == nullptr) {
-                curPos->next[t] = new Trie();
+    Trie(int n) {
+        cnt = 0;
+        trie = new int*[n];
+        exist = new bool[n];
+        for (int i = 0; i < n; i++) {
+            exist[i] = false;
+            trie[i] = new int[26];
+            for (int j = 0; j < 26; j++) {
+                trie[i][j] = 0;
             }
-            curPos = curPos->next[t];
         }
-        curPos->isEnd = true;
+    }
+    
+    void insert(string s) {
+        int u = 0;
+        for (char ch : s) {
+            int c = ch - 'a';
+            if (trie[u][c]) u = trie[u][c];
+            else u = trie[u][c] = ++cnt;
+        }
+        exist[u] = true;
     }
 };
 
 class Solution {
 public:
     int respace(vector<string>& dictionary, string sentence) {
-        int n = sentence.length(), inf = 0x3f3f3f3f;
-
-        Trie* root = new Trie();
-        for (auto& word: dictionary) {
-            root->insert(word);
+        int sum = 0;
+        for (string str : dictionary) {
+            sum += str.length() + 1;
         }
-
-        vector<int> dp(n + 1, inf);
-        dp[0] = 0;
-        for (int i = 1; i <= n; ++i) {
+        Trie* trie = new Trie(sum);
+        for (string str : dictionary) {
+            trie->insert(string(str.rbegin(), str.rend()));
+        }
+        size_t n = sentence.length();
+        vector<int> dp(n + 1, 0);
+        sentence.insert(0, " ");
+        for (int i = 1; i <= n; i++) {
             dp[i] = dp[i - 1] + 1;
-
-            Trie* curPos = root;
-            for (int j = i; j >= 1; --j) {
-                int t = sentence[j - 1] - 'a';
-                if (curPos->next[t] == nullptr) {
-                    break;
-                } else if (curPos->next[t]->isEnd) {
+            int u = 0;
+            for (int j = i; j >= 1; j--) {
+                int c = sentence[j] - 'a';
+                u = trie->trie[u][c];
+                if (!u) break;
+                if (trie->exist[u]) {
                     dp[i] = min(dp[i], dp[j - 1]);
                 }
-                if (dp[i] == 0) {
-                    break;
-                }
-                curPos = curPos->next[t];
             }
         }
         return dp[n];

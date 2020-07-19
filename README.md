@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-76/1721-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-36-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-29-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-11-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-88/1721-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-45-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-31-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-12-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-07-19 23:16:31</b>
+    <b>Last updated: 2020-07-20 03:06:35</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -25,7 +25,15 @@
 |面试题 16.11|[Diving Board LCCI](Problemset/diving-board-lcci/README_EN.md)|[C++](Problemset/diving-board-lcci/diving-board-lcci.cpp)|44.8%|easy|[Recursion](https://leetcode-cn.com/tag/recursion)<br>[Memoization](https://leetcode-cn.com/tag/memoization)|
 |剑指 Offer 64|[求1+2+…+n LCOF](Problemset/qiu-12n-lcof/README_EN.md)|[C++](Problemset/qiu-12n-lcof/qiu-12n-lcof.cpp)|85.5%|medium||
 |剑指 Offer 55 - II|[平衡二叉树 LCOF](Problemset/ping-heng-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/ping-heng-er-cha-shu-lcof/ping-heng-er-cha-shu-lcof.cpp)|58.1%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
-|剑指 Offer 41|[数据流中的中位数  LCOF](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/README_EN.md)|[C++](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.cpp)|55.6%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Design](https://leetcode-cn.com/tag/design)|
+|剑指 Offer 58 - II|[左旋转字符串 LCOF](Problemset/zuo-xuan-zhuan-zi-fu-chuan-lcof/README_EN.md)|[C++](Problemset/zuo-xuan-zhuan-zi-fu-chuan-lcof/zuo-xuan-zhuan-zi-fu-chuan-lcof.cpp)|85.3%|easy|[String](https://leetcode-cn.com/tag/string)|
+|剑指 Offer 56 - II|[数组中数字出现的次数 II LCOF](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.cpp)|79.2%|medium||
+|剑指 Offer 56 - I|[数组中数字出现的次数 LCOF](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.cpp)|71.9%|medium||
+|剑指 Offer 55 - I|[二叉树的深度 LCOF](Problemset/er-cha-shu-de-shen-du-lcof/README_EN.md)|[C++](Problemset/er-cha-shu-de-shen-du-lcof/er-cha-shu-de-shen-du-lcof.cpp)|78.9%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|剑指 Offer 51|[数组中的逆序对  LCOF](Problemset/shu-zu-zhong-de-ni-xu-dui-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-de-ni-xu-dui-lcof/shu-zu-zhong-de-ni-xu-dui-lcof.cpp)|45.7%|hard||
+|剑指 Offer 50|[第一个只出现一次的字符  LCOF](Problemset/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/README_EN.md)|[C++](Problemset/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.cpp)|60.4%|easy|[Hash Table](https://leetcode-cn.com/tag/hash-table)|
+|剑指 Offer 39|[数组中出现次数超过一半的数字  LCOF](Problemset/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.cpp)|67.8%|easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
+|剑指 Offer 41|[数据流中的中位数  LCOF](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/README_EN.md)|[C++](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.cpp)|55.5%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Design](https://leetcode-cn.com/tag/design)|
+|剑指 Offer 30|[包含min函数的栈 LCOF](Problemset/bao-han-minhan-shu-de-zhan-lcof/README_EN.md)|[C++](Problemset/bao-han-minhan-shu-de-zhan-lcof/bao-han-minhan-shu-de-zhan-lcof.cpp)|57.6%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[Design](https://leetcode-cn.com/tag/design)|
 |剑指 Offer 18|[删除链表的节点 LCOF](Problemset/shan-chu-lian-biao-de-jie-dian-lcof/README_EN.md)|[C++](Problemset/shan-chu-lian-biao-de-jie-dian-lcof/shan-chu-lian-biao-de-jie-dian-lcof.cpp)|58.9%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
 |剑指 Offer 24|[反转链表 LCOF](Problemset/fan-zhuan-lian-biao-lcof/README_EN.md)|[C++](Problemset/fan-zhuan-lian-biao-lcof/fan-zhuan-lian-biao-lcof.cpp)|75.2%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
 |剑指 Offer 19|[正则表达式匹配 LCOF](Problemset/zheng-ze-biao-da-shi-pi-pei-lcof/README_EN.md)|[C++](Problemset/zheng-ze-biao-da-shi-pi-pei-lcof/zheng-ze-biao-da-shi-pi-pei-lcof.cpp)|35.0%|hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
@@ -62,7 +70,7 @@
 |350|[Intersection of Two Arrays II](Problemset/intersection-of-two-arrays-ii/README_EN.md)|[C++](Problemset/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.cpp)|52.0%|easy|[Sort](https://leetcode-cn.com/tag/sort)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |343|[Integer Break](Problemset/integer-break/README_EN.md)|[C++](Problemset/integer-break/integer-break.cpp)|56.4%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |315|[Count of Smaller Numbers After Self](Problemset/count-of-smaller-numbers-after-self/README_EN.md)|[C++](Problemset/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.cpp)|41.0%|hard|[Sort](https://leetcode-cn.com/tag/sort)<br>[Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree)<br>[Segment Tree](https://leetcode-cn.com/tag/segment-tree)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
-|312|[Burst Balloons](Problemset/burst-balloons/README_EN.md)|[C++](Problemset/burst-balloons/burst-balloons.cpp)|66.0%|hard|[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|312|[Burst Balloons](Problemset/burst-balloons/README_EN.md)|[C++](Problemset/burst-balloons/burst-balloons.cpp)|66.5%|hard|[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Problemset/best-time-to-buy-and-sell-stock-with-cooldown/README_EN.md)|[C++](Problemset/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.cpp)|56.8%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |295|[Find Median from Data Stream](Problemset/find-median-from-data-stream/README_EN.md)|[C++](Problemset/find-median-from-data-stream/find-median-from-data-stream.cpp)|46.9%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Design](https://leetcode-cn.com/tag/design)|
 |260|[Single Number III](Problemset/single-number-iii/README_EN.md)|[C++](Problemset/single-number-iii/single-number-iii.cpp)|73.1%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)|
@@ -73,6 +81,9 @@
 |191|[Number of 1 Bits](Problemset/number-of-1-bits/README_EN.md)|[C++](Problemset/number-of-1-bits/number-of-1-bits.cpp)|68.4%|easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)|
 |175|[Combine Two Tables](Problemset/combine-two-tables/README_EN.md)|[SQL](Problemset/combine-two-tables/combine-two-tables.sql)|73.1%|easy||
 |174|[Dungeon Game](Problemset/dungeon-game/README_EN.md)|[C++](Problemset/dungeon-game/dungeon-game.cpp)|47.9%|hard|[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|169|[Majority Element](Problemset/majority-element/README_EN.md)|[C++](Problemset/majority-element/majority-element.cpp)|63.9%|easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
+|167|[Two Sum II - Input array is sorted](Problemset/two-sum-ii-input-array-is-sorted/README_EN.md)|[C++](Problemset/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp)|54.9%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
+|155|[Min Stack](Problemset/min-stack/README_EN.md)|[C++](Problemset/min-stack/min-stack.cpp)|54.8%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[Design](https://leetcode-cn.com/tag/design)|
 |154|[Find Minimum in Rotated Sorted Array II](Problemset/find-minimum-in-rotated-sorted-array-ii/README_EN.md)|[C++](Problemset/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp)|48.7%|hard|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |153|[Find Minimum in Rotated Sorted Array](Problemset/find-minimum-in-rotated-sorted-array/README_EN.md)|[C++](Problemset/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp)|51.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |137|[Single Number II](Problemset/single-number-ii/README_EN.md)|[C++](Problemset/single-number-ii/single-number-ii.cpp)|67.6%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)|
@@ -80,13 +91,14 @@
 |120|[Triangle](Problemset/triangle/README_EN.md)|[C++](Problemset/triangle/triangle.cpp)|66.6%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |112|[Path Sum](Problemset/path-sum/README_EN.md)|[C++](Problemset/path-sum/path-sum.cpp)|50.9%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](Problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README_EN.md)|[C++](Problemset/construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)|67.5%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Array](https://leetcode-cn.com/tag/array)|
+|104|[Maximum Depth of Binary Tree](Problemset/maximum-depth-of-binary-tree/README_EN.md)|[C++](Problemset/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp)|73.8%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
 |101|[Symmetric Tree](Problemset/symmetric-tree/README_EN.md)|[C++](Problemset/symmetric-tree/symmetric-tree.cpp)|52.5%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)|
 |97|[Interleaving String](Problemset/interleaving-string/README_EN.md)|[C++](Problemset/interleaving-string/interleaving-string.cpp)|45.1%|hard|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |96|[Unique Binary Search Trees](Problemset/unique-binary-search-trees/README_EN.md)|[C++](Problemset/unique-binary-search-trees/unique-binary-search-trees.cpp)|69.1%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |90|[Subsets II](Problemset/subsets-ii/README_EN.md)|[C++](Problemset/subsets-ii/subsets-ii.cpp)|60.5%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |79|[Word Search](Problemset/word-search/README_EN.md)|[C++](Problemset/word-search/word-search.cpp)|42.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |78|[Subsets](Problemset/subsets/README_EN.md)|[C++](Problemset/subsets/subsets.cpp)<br>[C](Problemset/subsets/subsets.c)|77.6%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
-|70|[Climbing Stairs](Problemset/climbing-stairs/README_EN.md)|[C++](Problemset/climbing-stairs/climbing-stairs.cpp)|50.0%|easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|70|[Climbing Stairs](Problemset/climbing-stairs/README_EN.md)|[C++](Problemset/climbing-stairs/climbing-stairs.cpp)|50.1%|easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |65|[Valid Number](Problemset/valid-number/README_EN.md)|[C++](Problemset/valid-number/valid-number.cpp)|20.2%|hard|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
 |63|[Unique Paths II](Problemset/unique-paths-ii/README_EN.md)|[C++](Problemset/unique-paths-ii/unique-paths-ii.cpp)|36.3%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |54|[Spiral Matrix](Problemset/spiral-matrix/README_EN.md)|[C++](Problemset/spiral-matrix/spiral-matrix.cpp)|40.7%|medium|[Array](https://leetcode-cn.com/tag/array)|

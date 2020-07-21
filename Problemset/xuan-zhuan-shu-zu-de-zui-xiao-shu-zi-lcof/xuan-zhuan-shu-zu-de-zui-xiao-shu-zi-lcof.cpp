@@ -1,9 +1,9 @@
 
 // @Title: 旋转数组的最小数字 (旋转数组的最小数字  LCOF)
 // @Author: Singularity0909
-// @Date: 2020-06-24 05:01:34
-// @Runtime: 20 ms
-// @Memory: 12.4 MB
+// @Date: 2020-07-22 00:51:33
+// @Runtime: 12 ms
+// @Memory: 12 MB
 
 class Solution {
 public:

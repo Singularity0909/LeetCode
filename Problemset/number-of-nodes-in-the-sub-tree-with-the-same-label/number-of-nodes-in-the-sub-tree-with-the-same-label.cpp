@@ -1,9 +1,9 @@
 
 // @Title: 子树中标签相同的节点数 (Number of Nodes in the Sub-Tree With the Same Label)
 // @Author: Singularity0909
-// @Date: 2020-07-24 13:08:46
-// @Runtime: 1400 ms
-// @Memory: 231 MB
+// @Date: 2020-07-27 01:04:10
+// @Runtime: 1256 ms
+// @Memory: 230.8 MB
 
 class Solution {
 public:

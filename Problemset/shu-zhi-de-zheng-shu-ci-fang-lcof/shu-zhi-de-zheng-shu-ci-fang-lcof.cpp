@@ -1,7 +1,7 @@
 
 // @Title: 数值的整数次方 (数值的整数次方 LCOF)
 // @Author: Singularity0909
-// @Date: 2020-06-24 05:01:34
+// @Date: 2020-06-13 02:58:31
 // @Runtime: 0 ms
 // @Memory: 5.8 MB
 

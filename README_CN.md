@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-132/1737-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-58-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-54-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-134/1737-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-59-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-55-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-20-red.svg?" alt="">
 </p>
 <h1 align="center">LeetCode 的解答</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-08-02 23:48:32</b>
+    <b>最近一次更新: 2020-08-03 01:24:58</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -21,7 +21,7 @@
 
 | # | 题名 | 解答 | 通过率 | 难度 | 标签 |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
-|LCP 13|[寻宝](Problemset/xun-bao/README.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|63.6%|困难||
+|LCP 13|[寻宝](Problemset/xun-bao/README.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|63.5%|困难||
 |面试题 17.13|[恢复空格](Problemset/re-space-lcci/README.md)|[C++](Problemset/re-space-lcci/re-space-lcci.cpp)|56.5%|中等|[记忆化](https://leetcode-cn.com/tag/memoization)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |面试题 16.11|[跳水板](Problemset/diving-board-lcci/README.md)|[C++](Problemset/diving-board-lcci/diving-board-lcci.cpp)|44.7%|简单|[递归](https://leetcode-cn.com/tag/recursion)<br>[记忆化](https://leetcode-cn.com/tag/memoization)|
 |剑指 Offer 64|[求1+2+…+n](Problemset/qiu-12n-lcof/README.md)|[C++](Problemset/qiu-12n-lcof/qiu-12n-lcof.cpp)|85.4%|中等||
@@ -66,7 +66,7 @@
 |剑指 Offer 25|[合并两个排序的链表](Problemset/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/README.md)|[C++](Problemset/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp)|74.1%|简单|[分治算法](https://leetcode-cn.com/tag/divide-and-conquer)|
 |剑指 Offer 14- II|[剪绳子 II](Problemset/jian-sheng-zi-ii-lcof/README.md)|[C++](Problemset/jian-sheng-zi-ii-lcof/jian-sheng-zi-ii-lcof.cpp)|30.1%|中等|[数学](https://leetcode-cn.com/tag/math)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |剑指 Offer 14- I|[剪绳子](Problemset/jian-sheng-zi-lcof/README.md)|[C++](Problemset/jian-sheng-zi-lcof/jian-sheng-zi-lcof.cpp)|55.0%|中等|[数学](https://leetcode-cn.com/tag/math)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
-|剑指 Offer 07|[重建二叉树](Problemset/zhong-jian-er-cha-shu-lcof/README.md)|[C++](Problemset/zhong-jian-er-cha-shu-lcof/zhong-jian-er-cha-shu-lcof.cpp)|68.8%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[递归](https://leetcode-cn.com/tag/recursion)|
+|剑指 Offer 07|[重建二叉树](Problemset/zhong-jian-er-cha-shu-lcof/README.md)|[C++](Problemset/zhong-jian-er-cha-shu-lcof/zhong-jian-er-cha-shu-lcof.cpp)|68.7%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[递归](https://leetcode-cn.com/tag/recursion)|
 |剑指 Offer 06|[从尾到头打印链表](Problemset/cong-wei-dao-tou-da-yin-lian-biao-lcof/README.md)|[C++](Problemset/cong-wei-dao-tou-da-yin-lian-biao-lcof/cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp)|76.1%|简单|[链表](https://leetcode-cn.com/tag/linked-list)|
 |剑指 Offer 13|[机器人的运动范围](Problemset/ji-qi-ren-de-yun-dong-fan-wei-lcof/README.md)|[C++](Problemset/ji-qi-ren-de-yun-dong-fan-wei-lcof/ji-qi-ren-de-yun-dong-fan-wei-lcof.cpp)|49.7%|中等||
 |剑指 Offer 05|[替换空格](Problemset/ti-huan-kong-ge-lcof/README.md)|[C++](Problemset/ti-huan-kong-ge-lcof/ti-huan-kong-ge-lcof.cpp)|76.5%|简单||
@@ -79,9 +79,10 @@
 |剑指 Offer 09|[用两个栈实现队列](Problemset/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/README.md)|[C++](Problemset/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.cpp)|73.8%|简单|[栈](https://leetcode-cn.com/tag/stack)<br>[设计](https://leetcode-cn.com/tag/design)|
 |面试题 08.03|[魔术索引](Problemset/magic-index-lcci/README.md)|[C++](Problemset/magic-index-lcci/magic-index-lcci.cpp)|68.5%|简单|[数组](https://leetcode-cn.com/tag/array)<br>[二分查找](https://leetcode-cn.com/tag/binary-search)|
 |5478|[最大得分](Problemset/get-the-maximum-score/README.md)|[C++](Problemset/get-the-maximum-score/get-the-maximum-score.cpp)|32.6%|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
-|5476|[找出数组游戏的赢家](Problemset/find-the-winner-of-an-array-game/README.md)|[C++](Problemset/find-the-winner-of-an-array-game/find-the-winner-of-an-array-game.cpp)|40.6%|中等|[数组](https://leetcode-cn.com/tag/array)|
+|5477|[排布二进制网格的最少交换次数](Problemset/minimum-swaps-to-arrange-a-binary-grid/README.md)|[C++](Problemset/minimum-swaps-to-arrange-a-binary-grid/minimum-swaps-to-arrange-a-binary-grid.cpp)|36.4%|中等|[贪心算法](https://leetcode-cn.com/tag/greedy)|
+|5476|[找出数组游戏的赢家](Problemset/find-the-winner-of-an-array-game/README.md)|[C++](Problemset/find-the-winner-of-an-array-game/find-the-winner-of-an-array-game.cpp)|40.7%|中等|[数组](https://leetcode-cn.com/tag/array)|
 |5475|[统计好三元组](Problemset/count-good-triplets/README.md)|[C++](Problemset/count-good-triplets/count-good-triplets.cpp)|78.6%|简单|[数组](https://leetcode-cn.com/tag/array)|
-|1530|[好叶子节点对的数量](Problemset/number-of-good-leaf-nodes-pairs/README.md)|[C++](Problemset/number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.cpp)|50.2%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)|
+|1530|[好叶子节点对的数量](Problemset/number-of-good-leaf-nodes-pairs/README.md)|[C++](Problemset/number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.cpp)|50.3%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)|
 |1529|[灯泡开关 IV](Problemset/bulb-switcher-iv/README.md)|[C++](Problemset/bulb-switcher-iv/bulb-switcher-iv.cpp)|66.1%|中等|[字符串](https://leetcode-cn.com/tag/string)|
 |1528|[重新排列字符串](Problemset/shuffle-string/README.md)|[C++](Problemset/shuffle-string/shuffle-string.cpp)|81.5%|简单|[排序](https://leetcode-cn.com/tag/sort)|
 |1521|[找到最接近目标值的函数值](Problemset/find-a-value-of-a-mysterious-function-closest-to-target/README.md)❤️|[C++](Problemset/find-a-value-of-a-mysterious-function-closest-to-target/find-a-value-of-a-mysterious-function-closest-to-target.cpp)|36.5%|困难|[位运算](https://leetcode-cn.com/tag/bit-manipulation)<br>[线段树](https://leetcode-cn.com/tag/segment-tree)<br>[二分查找](https://leetcode-cn.com/tag/binary-search)|
@@ -100,6 +101,7 @@
 |785|[判断二分图](Problemset/is-graph-bipartite/README.md)|[C++](Problemset/is-graph-bipartite/is-graph-bipartite.cpp)|49.8%|中等|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)<br>[图](https://leetcode-cn.com/tag/graph)|
 |632|[最小区间](Problemset/smallest-range-covering-elements-from-k-lists/README.md)|[C++](Problemset/smallest-range-covering-elements-from-k-lists/smallest-range-covering-elements-from-k-lists.cpp)|58.9%|困难|[哈希表](https://leetcode-cn.com/tag/hash-table)<br>[双指针](https://leetcode-cn.com/tag/two-pointers)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |437|[路径总和 III](Problemset/path-sum-iii/README.md)|[C++](Problemset/path-sum-iii/path-sum-iii.cpp)|55.6%|中等|[树](https://leetcode-cn.com/tag/tree)|
+|415|[字符串相加](Problemset/add-strings/README.md)|[C++](Problemset/add-strings/add-strings.cpp)|50.4%|简单|[字符串](https://leetcode-cn.com/tag/string)|
 |410|[分割数组的最大值](Problemset/split-array-largest-sum/README.md)|[C++](Problemset/split-array-largest-sum/split-array-largest-sum.cpp)|52.7%|困难|[二分查找](https://leetcode-cn.com/tag/binary-search)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |392|[判断子序列](Problemset/is-subsequence/README.md)|[C++](Problemset/is-subsequence/is-subsequence.cpp)|50.5%|简单|[贪心算法](https://leetcode-cn.com/tag/greedy)<br>[二分查找](https://leetcode-cn.com/tag/binary-search)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |365|[水壶问题](Problemset/water-and-jug-problem/README.md)|[C++](Problemset/water-and-jug-problem/water-and-jug-problem.cpp)|35.2%|中等|[数学](https://leetcode-cn.com/tag/math)|

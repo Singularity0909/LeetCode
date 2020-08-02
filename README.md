@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-132/1737-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-58-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-54-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-134/1737-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-59-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-55-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-20-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-08-02 23:48:32</b>
+    <b>Last updated: 2020-08-03 01:24:58</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -21,7 +21,7 @@
 
 | # | Title | Solutions | Acceptance | Difficulty | Tags |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
-|LCP 13|[寻宝](Problemset/xun-bao/README_EN.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|63.6%|hard||
+|LCP 13|[寻宝](Problemset/xun-bao/README_EN.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|63.5%|hard||
 |面试题 17.13|[Re-Space LCCI](Problemset/re-space-lcci/README_EN.md)|[C++](Problemset/re-space-lcci/re-space-lcci.cpp)|56.5%|medium|[Memoization](https://leetcode-cn.com/tag/memoization)<br>[String](https://leetcode-cn.com/tag/string)|
 |面试题 16.11|[Diving Board LCCI](Problemset/diving-board-lcci/README_EN.md)|[C++](Problemset/diving-board-lcci/diving-board-lcci.cpp)|44.7%|easy|[Recursion](https://leetcode-cn.com/tag/recursion)<br>[Memoization](https://leetcode-cn.com/tag/memoization)|
 |剑指 Offer 64|[求1+2+…+n LCOF](Problemset/qiu-12n-lcof/README_EN.md)|[C++](Problemset/qiu-12n-lcof/qiu-12n-lcof.cpp)|85.4%|medium||
@@ -66,7 +66,7 @@
 |剑指 Offer 25|[合并两个排序的链表  LCOF](Problemset/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/README_EN.md)|[C++](Problemset/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp)|74.1%|easy|[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |剑指 Offer 14- II|[剪绳子 II LCOF](Problemset/jian-sheng-zi-ii-lcof/README_EN.md)|[C++](Problemset/jian-sheng-zi-ii-lcof/jian-sheng-zi-ii-lcof.cpp)|30.1%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |剑指 Offer 14- I|[剪绳子  LCOF](Problemset/jian-sheng-zi-lcof/README_EN.md)|[C++](Problemset/jian-sheng-zi-lcof/jian-sheng-zi-lcof.cpp)|55.0%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|剑指 Offer 07|[重建二叉树 LCOF](Problemset/zhong-jian-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/zhong-jian-er-cha-shu-lcof/zhong-jian-er-cha-shu-lcof.cpp)|68.8%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Recursion](https://leetcode-cn.com/tag/recursion)|
+|剑指 Offer 07|[重建二叉树 LCOF](Problemset/zhong-jian-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/zhong-jian-er-cha-shu-lcof/zhong-jian-er-cha-shu-lcof.cpp)|68.7%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Recursion](https://leetcode-cn.com/tag/recursion)|
 |剑指 Offer 06|[从尾到头打印链表 LCOF](Problemset/cong-wei-dao-tou-da-yin-lian-biao-lcof/README_EN.md)|[C++](Problemset/cong-wei-dao-tou-da-yin-lian-biao-lcof/cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp)|76.1%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
 |剑指 Offer 13|[机器人的运动范围  LCOF](Problemset/ji-qi-ren-de-yun-dong-fan-wei-lcof/README_EN.md)|[C++](Problemset/ji-qi-ren-de-yun-dong-fan-wei-lcof/ji-qi-ren-de-yun-dong-fan-wei-lcof.cpp)|49.7%|medium||
 |剑指 Offer 05|[替换空格 LCOF](Problemset/ti-huan-kong-ge-lcof/README_EN.md)|[C++](Problemset/ti-huan-kong-ge-lcof/ti-huan-kong-ge-lcof.cpp)|76.5%|easy||
@@ -79,9 +79,10 @@
 |剑指 Offer 09|[用两个栈实现队列 LCOF](Problemset/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/README_EN.md)|[C++](Problemset/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.cpp)|73.8%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[Design](https://leetcode-cn.com/tag/design)|
 |面试题 08.03|[Magic Index LCCI](Problemset/magic-index-lcci/README_EN.md)|[C++](Problemset/magic-index-lcci/magic-index-lcci.cpp)|68.5%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |5478|[Get the Maximum Score](Problemset/get-the-maximum-score/README_EN.md)|[C++](Problemset/get-the-maximum-score/get-the-maximum-score.cpp)|32.6%|hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|5476|[Find the Winner of an Array Game](Problemset/find-the-winner-of-an-array-game/README_EN.md)|[C++](Problemset/find-the-winner-of-an-array-game/find-the-winner-of-an-array-game.cpp)|40.6%|medium|[Array](https://leetcode-cn.com/tag/array)|
+|5477|[Minimum Swaps to Arrange a Binary Grid](Problemset/minimum-swaps-to-arrange-a-binary-grid/README_EN.md)|[C++](Problemset/minimum-swaps-to-arrange-a-binary-grid/minimum-swaps-to-arrange-a-binary-grid.cpp)|36.4%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)|
+|5476|[Find the Winner of an Array Game](Problemset/find-the-winner-of-an-array-game/README_EN.md)|[C++](Problemset/find-the-winner-of-an-array-game/find-the-winner-of-an-array-game.cpp)|40.7%|medium|[Array](https://leetcode-cn.com/tag/array)|
 |5475|[Count Good Triplets](Problemset/count-good-triplets/README_EN.md)|[C++](Problemset/count-good-triplets/count-good-triplets.cpp)|78.6%|easy|[Array](https://leetcode-cn.com/tag/array)|
-|1530|[Number of Good Leaf Nodes Pairs](Problemset/number-of-good-leaf-nodes-pairs/README_EN.md)|[C++](Problemset/number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.cpp)|50.2%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|1530|[Number of Good Leaf Nodes Pairs](Problemset/number-of-good-leaf-nodes-pairs/README_EN.md)|[C++](Problemset/number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.cpp)|50.3%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
 |1529|[Bulb Switcher IV](Problemset/bulb-switcher-iv/README_EN.md)|[C++](Problemset/bulb-switcher-iv/bulb-switcher-iv.cpp)|66.1%|medium|[String](https://leetcode-cn.com/tag/string)|
 |1528|[Shuffle String](Problemset/shuffle-string/README_EN.md)|[C++](Problemset/shuffle-string/shuffle-string.cpp)|81.5%|easy|[Sort](https://leetcode-cn.com/tag/sort)|
 |1521|[Find a Value of a Mysterious Function Closest to Target](Problemset/find-a-value-of-a-mysterious-function-closest-to-target/README_EN.md)❤️|[C++](Problemset/find-a-value-of-a-mysterious-function-closest-to-target/find-a-value-of-a-mysterious-function-closest-to-target.cpp)|36.5%|hard|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Segment Tree](https://leetcode-cn.com/tag/segment-tree)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
@@ -100,6 +101,7 @@
 |785|[Is Graph Bipartite?](Problemset/is-graph-bipartite/README_EN.md)|[C++](Problemset/is-graph-bipartite/is-graph-bipartite.cpp)|49.8%|medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)<br>[Graph](https://leetcode-cn.com/tag/graph)|
 |632|[Smallest Range Covering Elements from K Lists](Problemset/smallest-range-covering-elements-from-k-lists/README_EN.md)|[C++](Problemset/smallest-range-covering-elements-from-k-lists/smallest-range-covering-elements-from-k-lists.cpp)|58.9%|hard|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[String](https://leetcode-cn.com/tag/string)|
 |437|[Path Sum III](Problemset/path-sum-iii/README_EN.md)|[C++](Problemset/path-sum-iii/path-sum-iii.cpp)|55.6%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
+|415|[Add Strings](Problemset/add-strings/README_EN.md)|[C++](Problemset/add-strings/add-strings.cpp)|50.4%|easy|[String](https://leetcode-cn.com/tag/string)|
 |410|[Split Array Largest Sum](Problemset/split-array-largest-sum/README_EN.md)|[C++](Problemset/split-array-largest-sum/split-array-largest-sum.cpp)|52.7%|hard|[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |392|[Is Subsequence](Problemset/is-subsequence/README_EN.md)|[C++](Problemset/is-subsequence/is-subsequence.cpp)|50.5%|easy|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |365|[Water and Jug Problem](Problemset/water-and-jug-problem/README_EN.md)|[C++](Problemset/water-and-jug-problem/water-and-jug-problem.cpp)|35.2%|medium|[Math](https://leetcode-cn.com/tag/math)|

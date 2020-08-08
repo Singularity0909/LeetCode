@@ -1,36 +1,24 @@
 
 // @Title: 打家劫舍 III (House Robber III)
 // @Author: Singularity0909
-// @Date: 2020-08-05 22:10:46
-// @Runtime: 36 ms
-// @Memory: 29.6 MB
-
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+// @Date: 2020-08-08 13:58:01
+// @Runtime: 40 ms
+// @Memory: 29.4 MB
 
 class Solution {
 public:
-    unordered_map <TreeNode*, int> f, g;
-
-    void dfs(TreeNode* o) {
-        if (!o) {
-            return;
-        }
-        dfs(o->left);
-        dfs(o->right);
-        f[o] = o->val + g[o->left] + g[o->right];
-        g[o] = max(f[o->left], g[o->left]) + max(f[o->right], g[o->right]);
+    unordered_map<TreeNode*, int> m1, m2;
+    
+    void dfs(TreeNode* now) {
+        if (!now) return;
+        dfs(now->left);
+        dfs(now->right);
+        m1[now] = now->val + m2[now->left] + m2[now->right];
+        m2[now] = max(m1[now->left], m2[now->left]) + max(m1[now->right], m2[now->right]);
     }
-
-    int rob(TreeNode* o) {
-        dfs(o);
-        return max(f[o], g[o]);
+    
+    int rob(TreeNode* root) {
+        dfs(root);
+        return max(m1[root], m2[root]);
     }
 };

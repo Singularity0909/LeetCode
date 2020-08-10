@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5475. Count Good Triplets](https://leetcode-cn.com/problems/count-good-triplets/)
+# [1534. Count Good Triplets](https://leetcode-cn.com/problems/count-good-triplets/)
 
 ## Description
 

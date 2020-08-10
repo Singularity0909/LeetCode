@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5478. 最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)
+# [1537. 最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)
 
 ## 题目描述
 

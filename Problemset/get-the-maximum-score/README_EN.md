@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5478. Get the Maximum Score](https://leetcode-cn.com/problems/get-the-maximum-score/)
+# [1537. Get the Maximum Score](https://leetcode-cn.com/problems/get-the-maximum-score/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5475. 统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/)
+# [1534. 统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/)
 
 ## 题目描述
 

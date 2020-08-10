@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5476. Find the Winner of an Array Game](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/)
+# [1535. Find the Winner of an Array Game](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/)
 
 ## Description
 

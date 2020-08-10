@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5477. Minimum Swaps to Arrange a Binary Grid](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/)
+# [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/)
 
 ## Description
 

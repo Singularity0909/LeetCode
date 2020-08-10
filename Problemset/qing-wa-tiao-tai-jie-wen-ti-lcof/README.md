@@ -21,6 +21,11 @@
 <strong>输出：</strong>21
 </pre>
 
+<p><strong>示例 3：</strong></p>
+
+<pre><strong>输入：</strong>n = 0
+<strong>输出：</strong>1</pre>
+
 <p><strong>提示：</strong></p>
 
 <ul>

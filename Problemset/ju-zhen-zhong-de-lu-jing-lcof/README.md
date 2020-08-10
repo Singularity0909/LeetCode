@@ -39,7 +39,7 @@
 
 ## 相关话题
 
-- [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
+- [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 
 ## 相似题目
 

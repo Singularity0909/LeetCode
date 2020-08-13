@@ -1,32 +1,23 @@
 
 // @Title: 克隆图 (Clone Graph)
 // @Author: Singularity0909
-// @Date: 2020-08-12 23:47:50
-// @Runtime: 12 ms
-// @Memory: 9.3 MB
+// @Date: 2020-08-13 17:43:10
+// @Runtime: 8 ms
+// @Memory: 8.9 MB
 
 class Solution {
 public:
-    unordered_map<Node*, Node*> visited;
+    Node* dfs(Node* now, vector<Node*>& vec) {
+        vec[now->val] = new Node(now->val);
+        for (Node* nxt : now->neighbors) {
+            vec[now->val]->neighbors.push_back(vec[nxt->val] ? vec[nxt->val] : dfs(nxt, vec));
+        }
+        return vec[now->val];
+    }
+    
     Node* cloneGraph(Node* node) {
-        if (node == nullptr) {
-            return node;
-        }
-
-        // 如果该节点已经被访问过了，则直接从哈希表中取出对应的克隆节点返回
-        if (visited.find(node) != visited.end()) {
-            return visited[node];
-        }
-
-        // 克隆节点，注意到为了深拷贝我们不会克隆它的邻居的列表
-        Node* cloneNode = new Node(node->val);
-        // 哈希表存储
-        visited[node] = cloneNode;
-
-        // 遍历该节点的邻居并更新克隆节点的邻居列表
-        for (auto& neighbor: node->neighbors) {
-            cloneNode->neighbors.emplace_back(cloneGraph(neighbor));
-        }
-        return cloneNode;
+        if (!node) return nullptr;
+        vector<Node*> vec(101, nullptr);
+        return dfs(node, vec);
     }
 };

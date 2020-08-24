@@ -1,9 +1,9 @@
 
 // @Title: 数字范围按位与 (Bitwise AND of Numbers Range)
 // @Author: Singularity0909
-// @Date: 2020-07-06 11:35:50
-// @Runtime: 20 ms
-// @Memory: 5.9 MB
+// @Date: 2020-08-23 11:30:41
+// @Runtime: 12 ms
+// @Memory: 5.8 MB
 
 // Version 1
 class Solution {

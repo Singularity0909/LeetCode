@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5509. Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)
+# [1578. Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)
 
 ## Description
 

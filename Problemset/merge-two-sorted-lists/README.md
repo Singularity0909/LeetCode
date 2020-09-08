@@ -22,7 +22,7 @@
 
 ## 相似题目
 
-- [合并K个排序链表](../merge-k-sorted-lists/README.md)
+- [合并K个升序链表](../merge-k-sorted-lists/README.md)
 - [合并两个有序数组](../merge-sorted-array/README.md)
 - [排序链表](../sort-list/README.md)
 - [最短单词距离 II](../shortest-word-distance-ii/README.md)

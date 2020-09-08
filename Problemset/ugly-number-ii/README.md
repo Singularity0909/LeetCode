@@ -31,7 +31,7 @@
 
 ## 相似题目
 
-- [合并K个排序链表](../merge-k-sorted-lists/README.md)
+- [合并K个升序链表](../merge-k-sorted-lists/README.md)
 - [计数质数](../count-primes/README.md)
 - [丑数](../ugly-number/README.md)
 - [完全平方数](../perfect-squares/README.md)

@@ -1,9 +1,9 @@
 
 # @Title: 重新排列单词间的空格 (Rearrange Spaces Between Words)
 # @Author: Singularity0909
-# @Date: 2020-09-20 10:36:07
-# @Runtime: 44 ms
-# @Memory: 13.5 MB
+# @Date: 2020-09-23 11:20:25
+# @Runtime: 52 ms
+# @Memory: 13.4 MB
 
 class Solution:
     def reorderSpaces(self, text: str) -> str:
@@ -14,6 +14,6 @@ class Solution:
         print(l)
         print(s)
         if l == 1:
-            return s[0] + " "*cnt
-        t = (" "*(cnt//(l-1))).join(s)
-        return t + " "*(cnt%(l-1))
+            return s[0] + " " * cnt
+        t = (" " * (cnt // (l - 1))).join(s)
+        return t + " " * (cnt % (l - 1))

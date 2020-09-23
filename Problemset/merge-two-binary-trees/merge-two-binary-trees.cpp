@@ -1,24 +1,18 @@
 
 // @Title: 合并二叉树 (Merge Two Binary Trees)
 // @Author: Singularity0909
-// @Date: 2020-09-23 08:08:08
+// @Date: 2020-09-23 08:39:31
 // @Runtime: 80 ms
-// @Memory: 33.5 MB
+// @Memory: 32.2 MB
 
 class Solution {
 public:
-    void dfs(TreeNode*& newTree, TreeNode* orgTree) {
-        if (!orgTree) return;
-        if (newTree == nullptr) newTree = new TreeNode(orgTree->val);
-        else newTree->val += orgTree->val;
-        dfs(newTree->left, orgTree->left);
-        dfs(newTree->right, orgTree->right);
-    }
-
-    TreeNode* mergeTrees(TreeNode* t1, TreeNode* t2) {
-        TreeNode* root = nullptr;
-        dfs(root, t1);
-        dfs(root, t2);
-        return root;
+    TreeNode * mergeTrees(TreeNode *t1, TreeNode *t2) {
+        if (!t1) return t2;
+        if (!t2) return t1;
+        t1->val += t2->val;
+        t1->left = mergeTrees(t1->left, t2->left);
+        t1->right = mergeTrees(t1->right, t2->right);
+        return t1;
     }
 };

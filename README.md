@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-230/1808-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-92-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-233/1808-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-93-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-104-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-34-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-36-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-09-26 22:52:17</b>
+    <b>Last updated: 2020-09-27 02:41:09</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -21,7 +21,7 @@
 
 | # | Title | Solutions | Acceptance | Difficulty | Tags |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
-|LCP 22|[黑白方格画](Problemset/ccw6C7/README_EN.md)|[C++](Problemset/ccw6C7/ccw6C7.cpp)|24.1%|easy||
+|LCP 22|[黑白方格画](Problemset/ccw6C7/README_EN.md)|[C++](Problemset/ccw6C7/ccw6C7.cpp)|24.2%|easy||
 |LCP 24|[数字游戏](Problemset/5TxKeK/README_EN.md)❤️|[C++](Problemset/5TxKeK/5TxKeK.cpp)|18.1%|hard||
 |LCP 13|[寻宝](Problemset/xun-bao/README_EN.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|62.5%|hard||
 |面试题 17.13|[Re-Space LCCI](Problemset/re-space-lcci/README_EN.md)|[C++](Problemset/re-space-lcci/re-space-lcci.cpp)|56.1%|medium|[Memoization](https://leetcode-cn.com/tag/memoization)<br>[String](https://leetcode-cn.com/tag/string)|
@@ -38,7 +38,7 @@
 |剑指 Offer 58 - II|[左旋转字符串 LCOF](Problemset/zuo-xuan-zhuan-zi-fu-chuan-lcof/README_EN.md)|[C++](Problemset/zuo-xuan-zhuan-zi-fu-chuan-lcof/zuo-xuan-zhuan-zi-fu-chuan-lcof.cpp)|85.5%|easy|[String](https://leetcode-cn.com/tag/string)|
 |剑指 Offer 58 - I|[翻转单词顺序 LCOF](Problemset/fan-zhuan-dan-ci-shun-xu-lcof/README_EN.md)|[C++](Problemset/fan-zhuan-dan-ci-shun-xu-lcof/fan-zhuan-dan-ci-shun-xu-lcof.cpp)|42.5%|easy|[String](https://leetcode-cn.com/tag/string)|
 |剑指 Offer 47|[礼物的最大价值 LCOF](Problemset/li-wu-de-zui-da-jie-zhi-lcof/README_EN.md)|[C++](Problemset/li-wu-de-zui-da-jie-zhi-lcof/li-wu-de-zui-da-jie-zhi-lcof.cpp)|67.9%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|剑指 Offer 57 - II|[和为s的连续正数序列 LCOF](Problemset/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/README_EN.md)|[C++](Problemset/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.cpp)|69.0%|easy||
+|剑指 Offer 57 - II|[和为s的连续正数序列 LCOF](Problemset/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/README_EN.md)|[C++](Problemset/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.cpp)|69.1%|easy||
 |剑指 Offer 45|[把数组排成最小的数 LCOF](Problemset/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/README_EN.md)|[C++](Problemset/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.cpp)|56.1%|medium|[Sort](https://leetcode-cn.com/tag/sort)|
 |剑指 Offer 57|[和为s的两个数字 LCOF](Problemset/he-wei-sde-liang-ge-shu-zi-lcof/README_EN.md)|[C++](Problemset/he-wei-sde-liang-ge-shu-zi-lcof/he-wei-sde-liang-ge-shu-zi-lcof.cpp)|65.4%|easy||
 |剑指 Offer 56 - II|[数组中数字出现的次数 II LCOF](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.cpp)|79.0%|medium||
@@ -53,6 +53,7 @@
 |剑指 Offer 32 - I|[从上到下打印二叉树 LCOF](Problemset/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.cpp)|64.6%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)|
 |剑指 Offer 39|[数组中出现次数超过一半的数字  LCOF](Problemset/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/README_EN.md)|[C++](Problemset/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.cpp)|67.8%|easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |剑指 Offer 38|[字符串的排列  LCOF](Problemset/zi-fu-chuan-de-pai-lie-lcof/README_EN.md)|[C++](Problemset/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.cpp)|54.4%|medium|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
+|剑指 Offer 37|[序列化二叉树  LCOF](Problemset/xu-lie-hua-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/xu-lie-hua-er-cha-shu-lcof/xu-lie-hua-er-cha-shu-lcof.cpp)|52.7%|hard|[Tree](https://leetcode-cn.com/tag/tree)<br>[Design](https://leetcode-cn.com/tag/design)|
 |剑指 Offer 31|[栈的压入、弹出序列 LCOF](Problemset/zhan-de-ya-ru-dan-chu-xu-lie-lcof/README_EN.md)|[C++](Problemset/zhan-de-ya-ru-dan-chu-xu-lie-lcof/zhan-de-ya-ru-dan-chu-xu-lie-lcof.cpp)|59.5%|medium||
 |剑指 Offer 41|[数据流中的中位数  LCOF](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/README_EN.md)|[C++](Problemset/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.cpp)|56.2%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Design](https://leetcode-cn.com/tag/design)|
 |剑指 Offer 30|[包含min函数的栈 LCOF](Problemset/bao-han-minhan-shu-de-zhan-lcof/README_EN.md)|[C++](Problemset/bao-han-minhan-shu-de-zhan-lcof/bao-han-minhan-shu-de-zhan-lcof.cpp)|57.2%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[Design](https://leetcode-cn.com/tag/design)|
@@ -88,7 +89,7 @@
 |面试题 08.03|[Magic Index LCCI](Problemset/magic-index-lcci/README_EN.md)|[C++](Problemset/magic-index-lcci/magic-index-lcci.cpp)|68.3%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |1594|[Maximum Non Negative Product in a Matrix](Problemset/maximum-non-negative-product-in-a-matrix/README_EN.md)|[C++](Problemset/maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.cpp)|28.5%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |1593|[Split a String Into the Max Number of Unique Substrings](Problemset/split-a-string-into-the-max-number-of-unique-substrings/README_EN.md)|[C++](Problemset/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.cpp)|45.1%|medium|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
-|1592|[Rearrange Spaces Between Words](Problemset/rearrange-spaces-between-words/README_EN.md)|[C++](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.cpp)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)|45.0%|easy|[String](https://leetcode-cn.com/tag/string)|
+|1592|[Rearrange Spaces Between Words](Problemset/rearrange-spaces-between-words/README_EN.md)|[C++](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.cpp)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)|44.9%|easy|[String](https://leetcode-cn.com/tag/string)|
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](Problemset/remove-max-number-of-edges-to-keep-graph-fully-traversable/README_EN.md)|[C++](Problemset/remove-max-number-of-edges-to-keep-graph-fully-traversable/remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp)|44.0%|hard|[Union Find](https://leetcode-cn.com/tag/union-find)|
 |1578|[Minimum Deletion Cost to Avoid Repeating Letters](Problemset/minimum-deletion-cost-to-avoid-repeating-letters/README_EN.md)|[C++](Problemset/minimum-deletion-cost-to-avoid-repeating-letters/minimum-deletion-cost-to-avoid-repeating-letters.cpp)|59.3%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](Problemset/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/README_EN.md)|[C++](Problemset/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.cpp)|30.6%|medium|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Math](https://leetcode-cn.com/tag/math)|
@@ -128,7 +129,7 @@
 |696|[Count Binary Substrings](Problemset/count-binary-substrings/README_EN.md)|[C++](Problemset/count-binary-substrings/count-binary-substrings.cpp)|62.3%|easy|[String](https://leetcode-cn.com/tag/string)|
 |685|[Redundant Connection II](Problemset/redundant-connection-ii/README_EN.md)|[C++](Problemset/redundant-connection-ii/redundant-connection-ii.cpp)|44.9%|hard|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Union Find](https://leetcode-cn.com/tag/union-find)<br>[Graph](https://leetcode-cn.com/tag/graph)|
 |684|[Redundant Connection](Problemset/redundant-connection/README_EN.md)|[C++](Problemset/redundant-connection/redundant-connection.cpp)|61.3%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Union Find](https://leetcode-cn.com/tag/union-find)<br>[Graph](https://leetcode-cn.com/tag/graph)|
-|679|[24 Game](Problemset/24-game/README_EN.md)|[C++](Problemset/24-game/24-game.cpp)|54.6%|hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|679|[24 Game](Problemset/24-game/README_EN.md)|[C++](Problemset/24-game/24-game.cpp)|54.7%|hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
 |657|[Robot Return to Origin](Problemset/robot-return-to-origin/README_EN.md)|[C++](Problemset/robot-return-to-origin/robot-return-to-origin.cpp)|77.9%|easy|[String](https://leetcode-cn.com/tag/string)|
 |647|[Palindromic Substrings](Problemset/palindromic-substrings/README_EN.md)|[C++](Problemset/palindromic-substrings/palindromic-substrings.cpp)|64.5%|medium|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |637|[Average of Levels in Binary Tree](Problemset/average-of-levels-in-binary-tree/README_EN.md)|[C++](Problemset/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.cpp)|68.7%|easy|[Tree](https://leetcode-cn.com/tag/tree)|
@@ -142,13 +143,13 @@
 |610|[Triangle Judgement](Problemset/triangle-judgement/README_EN.md)🔒|[SQL](Problemset/triangle-judgement/triangle-judgement.sql)|66.3%|easy||
 |608|[Tree Node](Problemset/tree-node/README_EN.md)🔒|[SQL](Problemset/tree-node/tree-node.sql)|68.0%|medium||
 |607|[Sales Person](Problemset/sales-person/README_EN.md)🔒|[SQL](Problemset/sales-person/sales-person.sql)|66.9%|easy||
-|603|[Consecutive Available Seats](Problemset/consecutive-available-seats/README_EN.md)🔒|[SQL](Problemset/consecutive-available-seats/consecutive-available-seats.sql)|68.3%|easy||
+|603|[Consecutive Available Seats](Problemset/consecutive-available-seats/README_EN.md)🔒|[SQL](Problemset/consecutive-available-seats/consecutive-available-seats.sql)|68.2%|easy||
 |602|[Friend Requests II: Who Has the Most Friends](Problemset/friend-requests-ii-who-has-the-most-friends/README_EN.md)🔒|[SQL](Problemset/friend-requests-ii-who-has-the-most-friends/friend-requests-ii-who-has-the-most-friends.sql)|62.5%|medium||
 |597|[Friend Requests I: Overall Acceptance Rate](Problemset/friend-requests-i-overall-acceptance-rate/README_EN.md)🔒|[SQL](Problemset/friend-requests-i-overall-acceptance-rate/friend-requests-i-overall-acceptance-rate.sql)|45.7%|easy||
 |586|[Customer Placing the Largest Number of Orders](Problemset/customer-placing-the-largest-number-of-orders/README_EN.md)🔒|[SQL](Problemset/customer-placing-the-largest-number-of-orders/customer-placing-the-largest-number-of-orders.sql)|75.6%|easy||
 |585|[Investments in 2016](Problemset/investments-in-2016/README_EN.md)🔒|[SQL](Problemset/investments-in-2016/investments-in-2016.sql)|58.1%|medium||
 |584|[Find Customer Referee](Problemset/find-customer-referee/README_EN.md)🔒|[SQL](Problemset/find-customer-referee/find-customer-referee.sql)|77.5%|easy||
-|580|[Count Student Number in Departments](Problemset/count-student-number-in-departments/README_EN.md)🔒|[SQL](Problemset/count-student-number-in-departments/count-student-number-in-departments.sql)|52.3%|medium||
+|580|[Count Student Number in Departments](Problemset/count-student-number-in-departments/README_EN.md)🔒|[SQL](Problemset/count-student-number-in-departments/count-student-number-in-departments.sql)|52.2%|medium||
 |578|[Get Highest Answer Rate Question](Problemset/get-highest-answer-rate-question/README_EN.md)🔒|[SQL](Problemset/get-highest-answer-rate-question/get-highest-answer-rate-question.sql)|50.8%|medium||
 |577|[Employee Bonus](Problemset/employee-bonus/README_EN.md)🔒|[SQL](Problemset/employee-bonus/employee-bonus.sql)|71.2%|easy||
 |574|[Winning Candidate](Problemset/winning-candidate/README_EN.md)🔒|[SQL](Problemset/winning-candidate/winning-candidate.sql)|62.4%|medium||
@@ -172,19 +173,21 @@
 |347|[Top K Frequent Elements](Problemset/top-k-frequent-elements/README_EN.md)|[C++](Problemset/top-k-frequent-elements/top-k-frequent-elements.cpp)|61.7%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)|
 |343|[Integer Break](Problemset/integer-break/README_EN.md)|[C++](Problemset/integer-break/integer-break.cpp)|58.7%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |337|[House Robber III](Problemset/house-robber-iii/README_EN.md)|[C++](Problemset/house-robber-iii/house-robber-iii.cpp)|60.4%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
-|336|[Palindrome Pairs](Problemset/palindrome-pairs/README_EN.md)|[C++](Problemset/palindrome-pairs/palindrome-pairs.cpp)|39.7%|hard|[Trie](https://leetcode-cn.com/tag/trie)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[String](https://leetcode-cn.com/tag/string)|
+|336|[Palindrome Pairs](Problemset/palindrome-pairs/README_EN.md)|[C++](Problemset/palindrome-pairs/palindrome-pairs.cpp)|39.6%|hard|[Trie](https://leetcode-cn.com/tag/trie)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[String](https://leetcode-cn.com/tag/string)|
 |332|[Reconstruct Itinerary](Problemset/reconstruct-itinerary/README_EN.md)|[C++](Problemset/reconstruct-itinerary/reconstruct-itinerary.cpp)|43.9%|medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Graph](https://leetcode-cn.com/tag/graph)|
 |329|[Longest Increasing Path in a Matrix](Problemset/longest-increasing-path-in-a-matrix/README_EN.md)|[C++](Problemset/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.cpp)|46.0%|hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Topological Sort](https://leetcode-cn.com/tag/topological-sort)<br>[Memoization](https://leetcode-cn.com/tag/memoization)|
 |315|[Count of Smaller Numbers After Self](Problemset/count-of-smaller-numbers-after-self/README_EN.md)|[C++](Problemset/count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.cpp)|41.4%|hard|[Sort](https://leetcode-cn.com/tag/sort)<br>[Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree)<br>[Segment Tree](https://leetcode-cn.com/tag/segment-tree)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |312|[Burst Balloons](Problemset/burst-balloons/README_EN.md)|[C++](Problemset/burst-balloons/burst-balloons.cpp)|67.1%|hard|[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Problemset/best-time-to-buy-and-sell-stock-with-cooldown/README_EN.md)|[C++](Problemset/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.cpp)|57.2%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |300|[Longest Increasing Subsequence](Problemset/longest-increasing-subsequence/README_EN.md)|[C++](Problemset/longest-increasing-subsequence/longest-increasing-subsequence.cpp)|45.2%|medium|[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|297|[Serialize and Deserialize Binary Tree](Problemset/serialize-and-deserialize-binary-tree/README_EN.md)|[C++](Problemset/serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.cpp)|52.2%|hard|[Tree](https://leetcode-cn.com/tag/tree)<br>[Design](https://leetcode-cn.com/tag/design)|
 |295|[Find Median from Data Stream](Problemset/find-median-from-data-stream/README_EN.md)|[C++](Problemset/find-median-from-data-stream/find-median-from-data-stream.cpp)|48.4%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Design](https://leetcode-cn.com/tag/design)|
 |264|[Ugly Number II](Problemset/ugly-number-ii/README_EN.md)|[C++](Problemset/ugly-number-ii/ugly-number-ii.cpp)|54.1%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Math](https://leetcode-cn.com/tag/math)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |260|[Single Number III](Problemset/single-number-iii/README_EN.md)|[C++](Problemset/single-number-iii/single-number-iii.cpp)|73.8%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)|
 |257|[Binary Tree Paths](Problemset/binary-tree-paths/README_EN.md)|[C++](Problemset/binary-tree-paths/binary-tree-paths.cpp)|66.0%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
 |240|[Search a 2D Matrix II](Problemset/search-a-2d-matrix-ii/README_EN.md)|[C++](Problemset/search-a-2d-matrix-ii/search-a-2d-matrix-ii.cpp)|42.2%|medium|[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |239|[Sliding Window Maximum](Problemset/sliding-window-maximum/README_EN.md)|[C++](Problemset/sliding-window-maximum/sliding-window-maximum.cpp)|49.1%|hard|[Heap](https://leetcode-cn.com/tag/heap)<br>[Sliding Window](https://leetcode-cn.com/tag/sliding-window)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](Problemset/lowest-common-ancestor-of-a-binary-search-tree/README_EN.md)|[C++](Problemset/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.cpp)|65.2%|easy|[Tree](https://leetcode-cn.com/tag/tree)|
 |226|[Invert Binary Tree](Problemset/invert-binary-tree/README_EN.md)|[C++](Problemset/invert-binary-tree/invert-binary-tree.cpp)<br>[C++](Problemset/invert-binary-tree/invert-binary-tree.cpp)|77.3%|easy|[Tree](https://leetcode-cn.com/tag/tree)|
 |216|[Combination Sum III](Problemset/combination-sum-iii/README_EN.md)|[C++](Problemset/combination-sum-iii/combination-sum-iii.cpp)|73.5%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |214|[Shortest Palindrome](Problemset/shortest-palindrome/README_EN.md)|[C++](Problemset/shortest-palindrome/shortest-palindrome.cpp)|36.4%|hard|[String](https://leetcode-cn.com/tag/string)|
@@ -247,7 +250,7 @@
 |37|[Sudoku Solver](Problemset/sudoku-solver/README_EN.md)|[C++](Problemset/sudoku-solver/sudoku-solver.cpp)|66.6%|hard|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |35|[Search Insert Position](Problemset/search-insert-position/README_EN.md)|[C++](Problemset/search-insert-position/search-insert-position.cpp)|46.7%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |21|[Merge Two Sorted Lists](Problemset/merge-two-sorted-lists/README_EN.md)|[C++](Problemset/merge-two-sorted-lists/merge-two-sorted-lists.cpp)|64.4%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
-|20|[Valid Parentheses](Problemset/valid-parentheses/README_EN.md)|[C++](Problemset/valid-parentheses/valid-parentheses.cpp)|43.0%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[String](https://leetcode-cn.com/tag/string)|
+|20|[Valid Parentheses](Problemset/valid-parentheses/README_EN.md)|[C++](Problemset/valid-parentheses/valid-parentheses.cpp)|43.1%|easy|[Stack](https://leetcode-cn.com/tag/stack)<br>[String](https://leetcode-cn.com/tag/string)|
 |17|[Letter Combinations of a Phone Number](Problemset/letter-combinations-of-a-phone-number/README_EN.md)|[C++](Problemset/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.cpp)|55.5%|medium|[String](https://leetcode-cn.com/tag/string)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |10|[Regular Expression Matching](Problemset/regular-expression-matching/README_EN.md)|[C++](Problemset/regular-expression-matching/regular-expression-matching.cpp)|30.5%|hard|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |1|[Two Sum](Problemset/two-sum/README_EN.md)|[C++](Problemset/two-sum/two-sum.cpp)|49.4%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)|

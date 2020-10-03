@@ -1,19 +1,23 @@
 
 // @Title: 最长上升子序列 (Longest Increasing Subsequence)
 // @Author: Singularity0909
-// @Date: 2020-08-28 09:19:50
+// @Date: 2020-10-02 02:07:16
 // @Runtime: 4 ms
-// @Memory: 8.1 MB
+// @Memory: 7.6 MB
 
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        vector<int> vec;
+    int lengthOfLIS(vector<int>& nums)
+    {
+        vector<int> up;
         for (int x : nums) {
-            int pos = lower_bound(vec.begin(), vec.end(), x) - vec.begin();
-            if (pos == vec.size()) vec.emplace_back(x);
-            else vec.at(pos) = x;
+            auto it = lower_bound(up.begin(), up.end(), x);
+            if (it == up.end()) {
+                up.push_back(x);
+            } else {
+                *it = x;
+            }
         }
-        return vec.size();
+        return (int)up.size();
     }
 };

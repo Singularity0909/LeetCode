@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-257/1813-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-258/1813-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-99-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-119-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-120-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-39-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-10-03 21:48:41</b>
+    <b>Last updated: 2020-10-03 22:17:00</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -24,7 +24,7 @@
 |LCP 22|[黑白方格画](Problemset/ccw6C7/README_EN.md)|[C++](Problemset/ccw6C7/ccw6C7.cpp)|25.7%|easy||
 |LCP 24|[数字游戏](Problemset/5TxKeK/README_EN.md)❤️|[C++](Problemset/5TxKeK/5TxKeK.cpp)|19.4%|hard||
 |LCP 19|[秋叶收藏集](Problemset/UlBDOe/README_EN.md)|[C++](Problemset/UlBDOe/UlBDOe.cpp)|50.6%|medium||
-|LCP 13|[寻宝](Problemset/xun-bao/README_EN.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|62.4%|hard||
+|LCP 13|[寻宝](Problemset/xun-bao/README_EN.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|62.5%|hard||
 |面试题 17.13|[Re-Space LCCI](Problemset/re-space-lcci/README_EN.md)|[C++](Problemset/re-space-lcci/re-space-lcci.cpp)|56.1%|medium|[Memoization](https://leetcode-cn.com/tag/memoization)<br>[String](https://leetcode-cn.com/tag/string)|
 |面试题 16.11|[Diving Board LCCI](Problemset/diving-board-lcci/README_EN.md)|[C++](Problemset/diving-board-lcci/diving-board-lcci.cpp)|44.3%|easy|[Recursion](https://leetcode-cn.com/tag/recursion)<br>[Memoization](https://leetcode-cn.com/tag/memoization)|
 |剑指 Offer 64|[求1+2+…+n LCOF](Problemset/qiu-12n-lcof/README_EN.md)|[C++](Problemset/qiu-12n-lcof/qiu-12n-lcof.cpp)|85.1%|medium||
@@ -91,7 +91,7 @@
 |1601|[Maximum Number of Achievable Transfer Requests](Problemset/maximum-number-of-achievable-transfer-requests/README_EN.md)|[C++](Problemset/maximum-number-of-achievable-transfer-requests/maximum-number-of-achievable-transfer-requests.cpp)|46.3%|hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |1600|[Throne Inheritance](Problemset/throne-inheritance/README_EN.md)|[C++](Problemset/throne-inheritance/throne-inheritance.cpp)|46.6%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Design](https://leetcode-cn.com/tag/design)|
 |1599|[Maximum Profit of Operating a Centennial Wheel](Problemset/maximum-profit-of-operating-a-centennial-wheel/README_EN.md)|[C++](Problemset/maximum-profit-of-operating-a-centennial-wheel/maximum-profit-of-operating-a-centennial-wheel.cpp)|41.1%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)|
-|1598|[Crawler Log Folder](Problemset/crawler-log-folder/README_EN.md)|[C++](Problemset/crawler-log-folder/crawler-log-folder.cpp)|67.5%|easy|[Stack](https://leetcode-cn.com/tag/stack)|
+|1598|[Crawler Log Folder](Problemset/crawler-log-folder/README_EN.md)|[C++](Problemset/crawler-log-folder/crawler-log-folder.cpp)|67.4%|easy|[Stack](https://leetcode-cn.com/tag/stack)|
 |1594|[Maximum Non Negative Product in a Matrix](Problemset/maximum-non-negative-product-in-a-matrix/README_EN.md)|[C++](Problemset/maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.cpp)|28.7%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |1593|[Split a String Into the Max Number of Unique Substrings](Problemset/split-a-string-into-the-max-number-of-unique-substrings/README_EN.md)|[C++](Problemset/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.cpp)|45.5%|medium|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |1592|[Rearrange Spaces Between Words](Problemset/rearrange-spaces-between-words/README_EN.md)|[C++](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.cpp)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)|44.9%|easy|[String](https://leetcode-cn.com/tag/string)|
@@ -250,7 +250,8 @@
 |90|[Subsets II](Problemset/subsets-ii/README_EN.md)|[C++](Problemset/subsets-ii/subsets-ii.cpp)|61.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |79|[Word Search](Problemset/word-search/README_EN.md)|[C++](Problemset/word-search/word-search.cpp)<br>[C++](Problemset/word-search/word-search.cpp)|43.6%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |78|[Subsets](Problemset/subsets/README_EN.md)|[C](Problemset/subsets/subsets.c)<br>[C++](Problemset/subsets/subsets.cpp)<br>[C++](Problemset/subsets/subsets.cpp)|79.1%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
-|77|[Combinations](Problemset/combinations/README_EN.md)|[C++](Problemset/combinations/combinations.cpp)<br>[C++](Problemset/combinations/combinations.cpp)|75.7%|medium|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
+|77|[Combinations](Problemset/combinations/README_EN.md)|[C++](Problemset/combinations/combinations.cpp)<br>[C++](Problemset/combinations/combinations.cpp)|75.8%|medium|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
+|71|[Simplify Path](Problemset/simplify-path/README_EN.md)|[C++](Problemset/simplify-path/simplify-path.cpp)|40.8%|medium|[Stack](https://leetcode-cn.com/tag/stack)<br>[String](https://leetcode-cn.com/tag/string)|
 |70|[Climbing Stairs](Problemset/climbing-stairs/README_EN.md)|[C++](Problemset/climbing-stairs/climbing-stairs.cpp)|50.6%|easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |65|[Valid Number](Problemset/valid-number/README_EN.md)|[C++](Problemset/valid-number/valid-number.cpp)|20.9%|hard|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
 |64|[Minimum Path Sum](Problemset/minimum-path-sum/README_EN.md)|[C++](Problemset/minimum-path-sum/minimum-path-sum.cpp)|67.5%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|

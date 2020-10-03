@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://oss.macrohard.cn/img/gallery/leetcode.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Singularity0909-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-257/1813-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-258/1813-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-99-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-119-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-120-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-39-red.svg?" alt="">
 </p>
 <h1 align="center">LeetCode 的解答</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-10-03 21:48:41</b>
+    <b>最近一次更新: 2020-10-03 22:17:00</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -24,7 +24,7 @@
 |LCP 22|[黑白方格画](Problemset/ccw6C7/README.md)|[C++](Problemset/ccw6C7/ccw6C7.cpp)|25.7%|简单||
 |LCP 24|[数字游戏](Problemset/5TxKeK/README.md)❤️|[C++](Problemset/5TxKeK/5TxKeK.cpp)|19.4%|困难||
 |LCP 19|[秋叶收藏集](Problemset/UlBDOe/README.md)|[C++](Problemset/UlBDOe/UlBDOe.cpp)|50.6%|中等||
-|LCP 13|[寻宝](Problemset/xun-bao/README.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|62.4%|困难||
+|LCP 13|[寻宝](Problemset/xun-bao/README.md)|[C++](Problemset/xun-bao/xun-bao.cpp)|62.5%|困难||
 |面试题 17.13|[恢复空格](Problemset/re-space-lcci/README.md)|[C++](Problemset/re-space-lcci/re-space-lcci.cpp)|56.1%|中等|[记忆化](https://leetcode-cn.com/tag/memoization)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |面试题 16.11|[跳水板](Problemset/diving-board-lcci/README.md)|[C++](Problemset/diving-board-lcci/diving-board-lcci.cpp)|44.3%|简单|[递归](https://leetcode-cn.com/tag/recursion)<br>[记忆化](https://leetcode-cn.com/tag/memoization)|
 |剑指 Offer 64|[求1+2+…+n](Problemset/qiu-12n-lcof/README.md)|[C++](Problemset/qiu-12n-lcof/qiu-12n-lcof.cpp)|85.1%|中等||
@@ -91,7 +91,7 @@
 |1601|[最多可达成的换楼请求数目](Problemset/maximum-number-of-achievable-transfer-requests/README.md)|[C++](Problemset/maximum-number-of-achievable-transfer-requests/maximum-number-of-achievable-transfer-requests.cpp)|46.3%|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |1600|[皇位继承顺序](Problemset/throne-inheritance/README.md)|[C++](Problemset/throne-inheritance/throne-inheritance.cpp)|46.6%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[设计](https://leetcode-cn.com/tag/design)|
 |1599|[经营摩天轮的最大利润](Problemset/maximum-profit-of-operating-a-centennial-wheel/README.md)|[C++](Problemset/maximum-profit-of-operating-a-centennial-wheel/maximum-profit-of-operating-a-centennial-wheel.cpp)|41.1%|中等|[贪心算法](https://leetcode-cn.com/tag/greedy)|
-|1598|[文件夹操作日志搜集器](Problemset/crawler-log-folder/README.md)|[C++](Problemset/crawler-log-folder/crawler-log-folder.cpp)|67.5%|简单|[栈](https://leetcode-cn.com/tag/stack)|
+|1598|[文件夹操作日志搜集器](Problemset/crawler-log-folder/README.md)|[C++](Problemset/crawler-log-folder/crawler-log-folder.cpp)|67.4%|简单|[栈](https://leetcode-cn.com/tag/stack)|
 |1594|[矩阵的最大非负积](Problemset/maximum-non-negative-product-in-a-matrix/README.md)|[C++](Problemset/maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.cpp)|28.7%|中等|[贪心算法](https://leetcode-cn.com/tag/greedy)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |1593|[拆分字符串使唯一子字符串的数目最大](Problemset/split-a-string-into-the-max-number-of-unique-substrings/README.md)|[C++](Problemset/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.cpp)|45.5%|中等|[回溯算法](https://leetcode-cn.com/tag/backtracking)|
 |1592|[重新排列单词间的空格](Problemset/rearrange-spaces-between-words/README.md)|[C++](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.cpp)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)<br>[Python3](Problemset/rearrange-spaces-between-words/rearrange-spaces-between-words.py)|44.9%|简单|[字符串](https://leetcode-cn.com/tag/string)|
@@ -250,7 +250,8 @@
 |90|[子集 II](Problemset/subsets-ii/README.md)|[C++](Problemset/subsets-ii/subsets-ii.cpp)|61.1%|中等|[数组](https://leetcode-cn.com/tag/array)<br>[回溯算法](https://leetcode-cn.com/tag/backtracking)|
 |79|[单词搜索](Problemset/word-search/README.md)|[C++](Problemset/word-search/word-search.cpp)<br>[C++](Problemset/word-search/word-search.cpp)|43.6%|中等|[数组](https://leetcode-cn.com/tag/array)<br>[回溯算法](https://leetcode-cn.com/tag/backtracking)|
 |78|[子集](Problemset/subsets/README.md)|[C](Problemset/subsets/subsets.c)<br>[C++](Problemset/subsets/subsets.cpp)<br>[C++](Problemset/subsets/subsets.cpp)|79.1%|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation)<br>[数组](https://leetcode-cn.com/tag/array)<br>[回溯算法](https://leetcode-cn.com/tag/backtracking)|
-|77|[组合](Problemset/combinations/README.md)|[C++](Problemset/combinations/combinations.cpp)<br>[C++](Problemset/combinations/combinations.cpp)|75.7%|中等|[回溯算法](https://leetcode-cn.com/tag/backtracking)|
+|77|[组合](Problemset/combinations/README.md)|[C++](Problemset/combinations/combinations.cpp)<br>[C++](Problemset/combinations/combinations.cpp)|75.8%|中等|[回溯算法](https://leetcode-cn.com/tag/backtracking)|
+|71|[简化路径](Problemset/simplify-path/README.md)|[C++](Problemset/simplify-path/simplify-path.cpp)|40.8%|中等|[栈](https://leetcode-cn.com/tag/stack)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |70|[爬楼梯](Problemset/climbing-stairs/README.md)|[C++](Problemset/climbing-stairs/climbing-stairs.cpp)|50.6%|简单|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |65|[有效数字](Problemset/valid-number/README.md)|[C++](Problemset/valid-number/valid-number.cpp)|20.9%|困难|[数学](https://leetcode-cn.com/tag/math)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |64|[最小路径和](Problemset/minimum-path-sum/README.md)|[C++](Problemset/minimum-path-sum/minimum-path-sum.cpp)|67.5%|中等|[数组](https://leetcode-cn.com/tag/array)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|

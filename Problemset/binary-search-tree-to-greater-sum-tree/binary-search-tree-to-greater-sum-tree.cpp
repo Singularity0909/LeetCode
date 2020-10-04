@@ -1,5 +1,5 @@
 
-// @Title: 从二叉搜索树到更大和树 (Binary Search Tree to Greater Sum Tree)
+// @Title: 把二叉搜索树转换为累加树 (Binary Search Tree to Greater Sum Tree)
 // @Author: Singularity0909
 // @Date: 2020-09-21 08:37:22
 // @Runtime: 4 ms

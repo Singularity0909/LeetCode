@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5519. 重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)
+# [1592. 重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)
 
 ## 题目描述
 

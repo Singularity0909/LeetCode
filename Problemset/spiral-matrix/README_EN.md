@@ -20,6 +20,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
+
 <pre>
 <strong>Input:</strong>
 [
@@ -29,6 +30,7 @@
 ]
 <strong>Output:</strong> [1,2,3,4,8,12,11,10,9,5,6,7]
 </pre>
+
 
 ## Related Topics
 

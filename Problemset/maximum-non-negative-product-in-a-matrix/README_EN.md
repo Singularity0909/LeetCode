@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5521. Maximum Non Negative Product in a Matrix](https://leetcode-cn.com/problems/maximum-non-negative-product-in-a-matrix/)
+# [1594. Maximum Non Negative Product in a Matrix](https://leetcode-cn.com/problems/maximum-non-negative-product-in-a-matrix/)
 
 ## Description
 

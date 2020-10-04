@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5519. Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)
+# [1592. Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)
 
 ## Description
 

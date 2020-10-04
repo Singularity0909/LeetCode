@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-04-10 11:03:59
 // @Runtime: 4 ms
-// @Memory: 6 MB
+// @Memory: 5.8 MB
 
 int** subsets(int* nums, int numsSize, int* returnSize, int** returnColumnSizes) {
     *returnSize = 1 << numsSize;

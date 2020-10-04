@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-07-15 14:35:01
 // @Runtime: 136 ms
-// @Memory: 97.8 MB
+// @Memory: 95.5 MB
 
 class Trie {
 public:

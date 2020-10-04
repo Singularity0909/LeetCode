@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-06-11 21:10:10
 // @Runtime: 0 ms
-// @Memory: 5.7 MB
+// @Memory: 5.6 MB
 
 class Solution {
 public:

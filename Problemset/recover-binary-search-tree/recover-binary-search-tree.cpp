@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-08-08 19:12:04
 // @Runtime: 28 ms
-// @Memory: 53.2 MB
+// @Memory: 52 MB
 
 /**
  * Definition for a binary tree node.

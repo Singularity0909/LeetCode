@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-07-20 02:10:04
 // @Runtime: 44 ms
-// @Memory: 14.4 MB
+// @Memory: 14.1 MB
 
 class MinStack {
 public:

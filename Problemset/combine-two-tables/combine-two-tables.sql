@@ -3,7 +3,7 @@
 -- @Author: Singularity0909
 -- @Date: 2020-03-19 12:19:49
 -- @Runtime: 167 ms
--- @Memory: 0B
+-- @Memory: 0 B
 
 # Write your MySQL query statement below
 select Person.FirstName, Person.LastName, Address.City, Address.State

@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-07-21 17:54:40
 // @Runtime: 276 ms
-// @Memory: 48.7 MB
+// @Memory: 47.6 MB
 
 class MaxQueue {
 public:

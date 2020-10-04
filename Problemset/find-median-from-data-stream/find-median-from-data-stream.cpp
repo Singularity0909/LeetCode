@@ -3,7 +3,7 @@
 // @Author: Singularity0909
 // @Date: 2020-07-05 00:58:02
 // @Runtime: 256 ms
-// @Memory: 41.7 MB
+// @Memory: 40.7 MB
 
 class MedianFinder {
 public:

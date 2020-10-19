@@ -62,6 +62,8 @@ Then, a<sub>prefix</sub> + b<sub>suffix</sub> = &quot;ula&quot; + &quot;alu&quot
 
 ## Related Topics
 
+- [Greedy](https://leetcode-cn.com/tag/greedy)
+- [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 
 ## Similar Questions

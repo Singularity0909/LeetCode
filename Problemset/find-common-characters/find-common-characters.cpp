@@ -5,6 +5,12 @@
 // @Runtime: 12 ms
 // @Memory: 9.5 MB
 
+// @Title: 查找常用字符 (Find Common Characters)
+// @Author: Singularity0909
+// @Date: 2020-10-14 10:49:15
+// @Runtime: 12 ms
+// @Memory: 9.5 MB
+
 class Solution {
 public:
     vector<string> commonChars(vector<string>& A)
@@ -29,3 +35,4 @@ public:
         return ans;
     }
 };
+

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5531. Special Array With X Elements Greater Than or Equal X](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+# [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
 ## Description
 

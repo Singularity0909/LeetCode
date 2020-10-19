@@ -1,9 +1,9 @@
 
 // @Title: N皇后 II (N-Queens II)
 // @Author: Singularity0909
-// @Date: 2020-09-04 11:00:00
-// @Runtime: 40 ms
-// @Memory: 7.6 MB
+// @Date: 2020-10-17 07:05:33
+// @Runtime: 36 ms
+// @Memory: 7.9 MB
 
 class Solution {
 public:

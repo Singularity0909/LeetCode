@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5536. 最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank/)
+# [1615. 最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank/)
 
 ## 题目描述
 

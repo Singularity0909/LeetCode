@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5536. Maximal Network Rank](https://leetcode-cn.com/problems/maximal-network-rank/)
+# [1615. Maximal Network Rank](https://leetcode-cn.com/problems/maximal-network-rank/)
 
 ## Description
 

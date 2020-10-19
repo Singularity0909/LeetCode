@@ -49,6 +49,8 @@ b<sub>prefix</sub> = "jiz", b<sub>suffix</sub> = "alu"
 
 ## 相关话题
 
+- [贪心算法](https://leetcode-cn.com/tag/greedy)
+- [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 
 ## 相似题目

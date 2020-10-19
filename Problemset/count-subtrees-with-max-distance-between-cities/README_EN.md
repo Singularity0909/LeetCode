@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5538. Count Subtrees With Max Distance Between Cities](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities/)
+# [1617. Count Subtrees With Max Distance Between Cities](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities/)
 
 ## Description
 
@@ -54,10 +54,9 @@ No subtree has two nodes where the max distance between them is 3.
 	<li>All pairs <code>(u<sub>i</sub>, v<sub>i</sub>)</code> are distinct.</li>
 </ul>
 
-
 ## Related Topics
 
-- [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
+- [Backtracking](https://leetcode-cn.com/tag/backtracking)
 
 ## Similar Questions
 

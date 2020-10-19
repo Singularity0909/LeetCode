@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5533. Minimum One Bit Operations to Make Integers Zero](https://leetcode-cn.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
+# [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode-cn.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
 
 ## Description
 

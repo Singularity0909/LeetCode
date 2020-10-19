@@ -32,6 +32,6 @@
 
 - [只出现一次的数字 II](../single-number-ii/README.md)
 - [只出现一次的数字 III](../single-number-iii/README.md)
-- [缺失数字](../missing-number/README.md)
+- [丢失的数字](../missing-number/README.md)
 - [寻找重复数](../find-the-duplicate-number/README.md)
 - [找不同](../find-the-difference/README.md)

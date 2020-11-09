@@ -1,9 +1,9 @@
 
 // @Title: 奇妙序列 (Fancy Sequence)
 // @Author: Singularity0909
-// @Date: 2020-10-18 00:07:55
-// @Runtime: 1276 ms
-// @Memory: 326 MB
+// @Date: 2020-11-03 11:21:24
+// @Runtime: 1508 ms
+// @Memory: 317.6 MB
 
 class Fancy {
 public:
@@ -130,17 +130,23 @@ public:
     
     void addAll(int inc)
     {
-        add(1, 1, tot, inc);
+        if (tot) {
+            add(1, 1, tot, inc);
+        }
     }
     
     void multAll(int m)
     {
-        mult(1, 1, tot, m);
+        if (tot) {
+            mult(1, 1, tot, m);
+        }
     }
     
     int getIndex(int idx)
     {
-        if (idx + 1 > tot) return -1;
+        if (idx + 1 > tot) {
+            return -1;
+        }
         return (int)query(1, idx + 1, idx + 1);
     }
 };

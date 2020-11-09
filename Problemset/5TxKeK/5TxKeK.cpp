@@ -1,9 +1,9 @@
 
 // @Title: 数字游戏 (数字游戏)
 // @Author: Singularity0909
-// @Date: 2020-09-19 21:33:48
-// @Runtime: 620 ms
-// @Memory: 70.5 MB
+// @Date: 2020-11-03 11:10:28
+// @Runtime: 712 ms
+// @Memory: 70.6 MB
 
 class Solution {
 public:

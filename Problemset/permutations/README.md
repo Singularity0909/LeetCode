@@ -29,5 +29,5 @@
 
 - [下一个排列](../next-permutation/README.md)
 - [全排列 II](../permutations-ii/README.md)
-- [第k个排列](../permutation-sequence/README.md)
+- [排列序列](../permutation-sequence/README.md)
 - [组合](../combinations/README.md)

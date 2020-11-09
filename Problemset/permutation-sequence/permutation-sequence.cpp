@@ -1,5 +1,5 @@
 
-// @Title: 第k个排列 (Permutation Sequence)
+// @Title: 排列序列 (Permutation Sequence)
 // @Author: Singularity0909
 // @Date: 2020-09-06 20:59:01
 // @Runtime: 0 ms

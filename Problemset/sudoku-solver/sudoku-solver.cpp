@@ -1,9 +1,9 @@
 
 // @Title: 解数独 (Sudoku Solver)
 // @Author: Singularity0909
-// @Date: 2020-09-15 17:21:05
-// @Runtime: 32 ms
-// @Memory: 6.9 MB
+// @Date: 2020-11-03 11:11:47
+// @Runtime: 36 ms
+// @Memory: 7 MB
 
 class Solution {
 public:

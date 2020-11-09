@@ -56,7 +56,6 @@ Result table:
 Note that we do not care about days with zero active users.
 </pre>
 
-
 ## Related Topics
 
 
